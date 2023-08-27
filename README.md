@@ -11,3 +11,13 @@ procedure for when a user equipment (UE), such as mobile phones, begin to link u
 (BS). The problem that we face, is being able to detect the correct base station through all the noise
 and interference, and more importantly, finding the cell ID of a weak BS signal that is being overshadowed by a stronger BS signal, useful for performing handovers with other cells. Student is expect to
 implement this cell search algorithm on the USRP platform.
+
+
+
+## Installation
+
+Clone this repository and compile the code as per the instructions.
+
+```bash
+git clone https://github.com/s1923864/Data-Structure-and-Algorithm.git
+cd Data-Structure-and-Algorithm
