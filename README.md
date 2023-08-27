@@ -19,5 +19,5 @@ implement this cell search algorithm on the USRP platform.
 Clone this repository and compile the code as per the instructions.
 
 ```bash
-git clone https://github.com/s1923864/Data-Structure-and-Algorithm.git
-cd Data-Structure-and-Algorithm
+git clone https://github.com/s1923864/MEng-Electronics-and-Electrical-Engineering-Project-Phase-One-Internal.git
+cd MEng-Electronics-and-Electrical-Engineering-Project-Phase-One-Internal
